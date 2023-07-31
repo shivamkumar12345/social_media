@@ -1,0 +1,43 @@
+.post_cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.avatar {
+    border: 1px solid #fff;
+    width: 24px!important;
+    height: 24px!important;
+    background-color: #f44336;
+}
+.post_card {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 12px;
+    border-radius: 16px !important;
+    margin: 15px 2px;
+}
+.css-1qbkelo-MuiCardHeader-content {
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    margin: 0 auto 0 0;
+}
+.css-1ssile9-MuiCardHeader-avatar {
+    margin-right: 4px!important;
+}
+.post_desc {
+    padding-top: 8px;
+    text-align: left;
+    font-size: 12px !important;
+    max-height: 2em !important;
+    line-height: 0.8em !important;
+    word-wrap: break-word;
+    white-space: pre-line;
+    overflow: hidden;
+}

@@ -1,0 +1,13 @@
+.story_div {
+    display: flex;
+    justify-content:center;
+    width:100%;
+    height:100vh;
+    margin: 0px; 
+    background-size: cover !important; 
+    background-repeat:no-repeat !important;
+    background-position: center !important;
+}
+.story_arrowback{
+    margin: 0px auto auto 0px;
+}
